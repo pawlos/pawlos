@@ -7,7 +7,7 @@ You can follow me on:
 - 💻 [StackOverflow](https://stackoverflow.com/users/4832634/pawe%c5%82-%c5%81ukasik)
 - 🐱‍💻 [SE:Reverse Engineering](https://reverseengineering.stackexchange.com/users/18014/pawe%c5%82-%c5%81ukasik)
 - [Reddit](https://www.reddit.com/u/plukasik/)
-- 📝 [blog](https://allthingsreversed.io)
+- 📝 [https://allthingsreversed.io](https://allthingsreversed.io)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pawlos&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
