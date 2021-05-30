@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+You can follow me on:
+
+- [Twitter](https://twitter.com/pawel_lukasik)
+- 📺 [YouTube](https://www.youtube.com/c/PawelLukasik)
+- 💻 [StackOverflow](https://stackoverflow.com/users/4832634/pawe%c5%82-%c5%81ukasik)
+- 🐱‍💻 [SE:Reverse Engineering](https://reverseengineering.stackexchange.com/users/18014/pawe%c5%82-%c5%81ukasik)
+- [Reddit](https://www.reddit.com/u/plukasik/)
+- 📝 [blog](https://allthingsreversed.io)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pawlos&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pawlos/pawlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
