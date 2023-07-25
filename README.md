@@ -9,7 +9,7 @@ You can follow me on:
 - [Reddit](https://www.reddit.com/u/plukasik/)
 - 📝 [https://allthingsreversed.io](https://allthingsreversed.io)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pawlos&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pawlos&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pawlos/pawlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
